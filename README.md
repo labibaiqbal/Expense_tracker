@@ -5,9 +5,8 @@ Expense Tracker is an app that can track your money efficiently which help you t
 ### Technologies used:
 
 ```
-1. React JS
+1. React JS - hooks
 2. CSS 
-
 ```
 
 ### Live Demo
